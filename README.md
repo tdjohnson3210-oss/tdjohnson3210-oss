@@ -10,7 +10,7 @@ I'm a data analyst who enjoys turning complex, messy datasets into clear insight
 - **Visualization:** Tableau, Power BI, dashboards, interactive reporting  
 
 ## 📂 Featured Projects
-- **Predictive Analytics in Healthcare**  
+- **Predictive Analytics in Healthcare** (https://github.com/tdjohnson3210-oss/healthcare_predictive_analytics.git)  
   Built a predictive model to analyze healthcare cost drivers using statistical methods and introductory machine learning. Focused on feature engineering, model comparison, and communicating results through clear visualizations.
 
 - **Urban Heat Mapping & Spatial Modeling**  
