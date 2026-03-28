@@ -1,4 +1,4 @@
-# Hi, I'm Trace Johnson (He/Him) 👋
+# Hi, I'm Tracey Johnson (He/Him) 👋
 
 I'm a data analyst who enjoys turning complex, messy datasets into clear insights that support real-world decision-making. My work blends data cleaning, statistical analysis, introductory machine learning, and visualization, with a growing focus on geospatial analytics and predictive modeling. I am currently building a portfolio that highlights practical, end‑to‑end analytical workflows.
 
