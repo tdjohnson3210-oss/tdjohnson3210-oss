@@ -13,10 +13,10 @@ I'm a data analyst who enjoys turning complex, messy datasets into clear insight
 - **Predictive Analytics in Healthcare** (https://github.com/tdjohnson3210-oss/healthcare_predictive_analytics.git)  
   Built a predictive model to analyze healthcare cost drivers using statistical methods and introductory machine learning. Focused on feature engineering, model comparison, and communicating results through clear visualizations.
 
-- **Analyzing Social Media Networks using Python** ()
+- **Analyzing Social Media Networks using Python** (https://github.com/tdjohnson3210-oss/social_media_networks.git)
   Examined a social network by constructing a graph from interaction data, analyzing its structure through metrics like centrality, clustering, and community patterns, highlighting key influencers, visualizing user connections, interpreting how information might spread across the network, and concluding with a discussion that translates these findings into practical insights for shaping an effective social media strategy.
 
-- **Text Mining & Sentiment Analysis** ()
+- **Text Mining & Sentiment Analysis** (https://github.com/tdjohnson3210-oss/retail_text_analysis.git)
   Cleaned and processed unstructured text data, extracted key themes, and compared rule‑based and machine‑learning sentiment methods. Demonstrated differences in accuracy, consistency, and interpretability across approaches.
 
 ## 📚 Currently Learning
